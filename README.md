@@ -1,5 +1,9 @@
 # Adminlte
 
+This project is Angular with Admin-LTE template integrated, 
+It is a blank project, no other components created.
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
 ## Development server
